@@ -21,3 +21,4 @@ java -Dfile.encoding=UTF-8 -cp "%OUT_DIR%;%ROOT_DIR%gson-2.10.1.jar" br.com.seuu
 echo.
 echo Programa finalizado. Pressione qualquer tecla para sair...
 pause >nul
+
